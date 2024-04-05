@@ -4,5 +4,5 @@
 - 🐋 I Like use Childe International and Mono Geo in spiral Abbys
 - ⚡ Fun fact: I can Solve any Rubik Cubes and I never full star in Spiral Abbys
 - 🤗 I am currently looking for an internship opportunity
-- Please contact me if you interest 🌝 (+6282383246251)
+- Please contact me if you are interested (+6282383246251)
 
