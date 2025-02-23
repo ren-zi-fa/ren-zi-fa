@@ -12,5 +12,5 @@
 ---
 
 ### 📫 Reach me at:
-- GitHub: [github.com/Renzi](https://github.com/ren-zi-fa)
+- GitHub: [github.com/ren-zi-fa](https://github.com/ren-zi-fa)
 
