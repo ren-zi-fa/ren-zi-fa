@@ -5,10 +5,6 @@
 
 ![Renzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ren-zi-fa&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ren-zi-fa&theme=onedark&no-frame=true)
-
 ## 💻 Languages & Tools
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ren-zi-fa&layout=compact&theme=radical)
