@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @ren-zi-fa
 - 👀 I’m interested in web development
 - 🤗 I am currently looking for job and internship opportunity
-## 🚀 My GitHub Stats & Languages
 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ren-zi-fa&layout=compact&theme=radical" alt="Top Langs" width="48%"/>
-
----
 ## Tools & Languages
 
 | Technology    | Badge |
