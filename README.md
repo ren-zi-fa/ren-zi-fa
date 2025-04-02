@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ren-zi-fa
 - 👀 I’m interested in web development
-- you can ask me to build your application for free, just hit my whatss'ap
+- you can ask me to build your application for free, just hit my whats'app
