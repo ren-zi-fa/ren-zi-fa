@@ -1,6 +1,3 @@
 - 👋 Hi, I’m @ren-zi-fa
 - 👀 I’m interested in web development
-- 🤗 I am currently looking for job and internship opportunity
-- 
-
-
+- you can ask me to build your application for free, just hit my whatss'ap
