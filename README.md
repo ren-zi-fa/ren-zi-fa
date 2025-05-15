@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ren-zi-fa
-- 👀 I’m interested in web development
+- 👀 I’m interested in coding
+- You can hire me with low cost due to my country currency is weaker the yours 🤣🤣🤣  just hit my email if you need something 
 
 
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ren-zi-fa&theme=vue)
