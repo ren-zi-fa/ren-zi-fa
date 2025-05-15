@@ -8,5 +8,14 @@
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ren-zi-fa&theme=vue)
 <p align="left"> <img src="https://i.gifer.com/78Mz.gif" alt="" width="80%" height="300px"/></p>
 
+## Deployed Projects on Vercel
 
+Here are some of the projects I have deployed on Vercel:
+
+- [Funimedesu](https://funimedesu.vercel.app/)
+- [NFT Marketplace (UI Slicing)](https://nft-marketplacenzy.vercel.app/)
+- [Tebak Gambar](https://tebak-gambar-ini.vercel.app/)
+- [Chariteam Donation Page (UI Slicing)](https://donate-chariteam.vercel.app/)
+- [Card Generator](https://programmer-card-genetor-zi.vercel.app/)
+- [Snake Game](https://snake-game-tau-murex.vercel.app/)
 
