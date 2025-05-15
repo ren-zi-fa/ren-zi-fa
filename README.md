@@ -15,7 +15,7 @@ Here are some of the projects I have deployed on Vercel:
 
 - [Funimedesu](https://funimedesu.vercel.app/)
 - [NFT Marketplace (UI Slicing)](https://nft-marketplacenzy.vercel.app/)
-- [Guess the pic !](https://tebak-gambar-ini.vercel.app/)
+- [Guess the pict !](https://tebak-gambar-ini.vercel.app/)
 - [Chariteam Donation Page (UI Slicing)](https://donate-chariteam.vercel.app/)
 - [Card Generator](https://programmer-card-genetor-zi.vercel.app/)
 - [Snake Game](https://snake-game-tau-murex.vercel.app/)
