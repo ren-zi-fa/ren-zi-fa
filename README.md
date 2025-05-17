@@ -1,3 +1,4 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ren-zi-fa.ren-zi-fa)
 - 👋 Hi, I’m @ren-zi-fa
 - 👀 I’m interested in coding
 - You can hire me with low cost due to my country currency is weaker then yours 🤣🤣🤣  just hit my email if you need something 
