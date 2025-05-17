@@ -1,4 +1,7 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ren-zi-fa.ren-zi-fa)
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ren-zi-fa&label=Profile%20views&color=0e75b6&style=flat" alt="ren-zi-fa" /> 
+</p>
+
 - 👋 Hi, I’m @ren-zi-fa
 - 👀 I’m interested in coding
 - You can hire me with low cost due to my country currency is weaker then yours 🤣🤣🤣  just hit my email if you need something 
