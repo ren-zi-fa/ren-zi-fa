@@ -4,7 +4,6 @@
 
 - 👋 Hi, I’m @ren-zi-fa
 - 👀 I’m interested in coding
-- need job
 
 
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ren-zi-fa&theme=vue)
