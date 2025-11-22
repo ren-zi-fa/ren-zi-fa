@@ -5,8 +5,6 @@
 - 👋 Hi, I’m @ren-zi-fa
 - 👀 I’m interested in coding
   
-![I use Arch BTW](https://github.com/ren-zi-fa/ren-zi-fa/blob/renzi_branch/img.png)
-
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ren-zi-fa&theme=vue)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ren-zi-fa&theme=vue)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ren-zi-fa&theme=vue)
