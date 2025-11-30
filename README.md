@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=ren-zi-fa&label=Profile%20views&color=0e75b6&style=flat" alt="ren-zi-fa" /> 
 </p>
 
-- 👋 Hi, I’m @ren-zi-fa
+- 👋 Hi, I’m Renzi Febriandika
 - 👀 I’m interested in coding
   
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ren-zi-fa&theme=vue)
